@@ -6,8 +6,6 @@ python. It contains the example code and solutions to the exercises in the third
 
 <a href="https://homl.info/er3"><img src="https://learning.oreilly.com/library/cover/9781098125967/300w/" title="book" width="150" border="0" /></a>
 
-**Note**: If you are looking for the second edition notebooks, check out [ageron/handson-ml2](https://github.com/ageron/handson-ml2). For the first edition, see [ageron/handson-ml](https://github.com/ageron/handson-ml).
-
 ## Quick Start
 
 ### Want to play with these notebooks online without having to install anything?
